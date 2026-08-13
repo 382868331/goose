@@ -8,6 +8,7 @@ require (
 	github.com/jackc/pgx/v5 v5.4.1
 	github.com/microsoft/go-mssqldb v1.4.0
 	github.com/ory/dockertest/v3 v3.10.0
+	github.com/stretchr/testify v1.8.4
 	github.com/vertica/vertica-sql-go v1.3.2
 	github.com/ziutek/mymysql v1.5.4
 	modernc.org/sqlite v1.24.0
@@ -21,6 +22,7 @@ require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
 	github.com/cenkalti/backoff/v4 v4.2.1 // indirect
 	github.com/containerd/continuity v0.4.1 // indirect
+	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/docker/cli v24.0.2+incompatible // indirect
 	github.com/docker/docker v24.0.2+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
@@ -51,6 +53,7 @@ require (
 	github.com/paulmach/orb v0.9.2 // indirect
 	github.com/pierrec/lz4/v4 v4.1.18 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
+	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/procfs v0.11.0 // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
 	github.com/segmentio/asm v1.2.0 // indirect
